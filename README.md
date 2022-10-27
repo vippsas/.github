@@ -1,18 +1,11 @@
-<!-- START_METADATA
----
-title: Introduction
-sidebar_position: 1
-hide_table_of_contents: true
-pagination_next: null
-pagination_prev: null
----
-END_METADATA -->
-
-# Vipps Developers
+# .github repository
 
 <!-- START_COMMENT -->
 
-ℹ️ Please use the new documentation:
-[Vipps Technical Documentation](https://vippsas.github.io/vipps-developer-docs/).
+vippsas/.github is a special repository.
+
+The /profile/README.md will appear on the organization's profile.
+
+Please update /profile/README.md if you would like to make modifications to the information shown there.
 
 <!-- END_COMMENT -->
