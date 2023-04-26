@@ -1,6 +1,6 @@
 <!-- START_METADATA
 ---
-title: Vipps Technical Documentatio
+title: Vipps Technical Documentation
 sidebar_position: 1
 hide_table_of_contents: true
 pagination_next: null
