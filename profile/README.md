@@ -8,7 +8,7 @@ pagination_prev: null
 ---
 END_METADATA -->
 
-# Vipps Technical Documentatio
+# Vipps Technical Documentation
 
 <!-- START_COMMENT -->
 
