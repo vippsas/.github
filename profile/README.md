@@ -8,10 +8,10 @@ pagination_prev: null
 ---
 END_METADATA -->
 
-# Vipps Technical Documentation
+# Vipps MobilePay Technical Documentation
 
 <!-- START_COMMENT -->
 
-ℹ️ Please use the new documentation: Vipps Technical Documentation: https://developer.vippsmobilepay.com
+ℹ️ Please use the new documentation: Vipps MobilePay Technical Documentation: https://developer.vippsmobilepay.com
 
 <!-- END_COMMENT -->
