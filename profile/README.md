@@ -1,17 +1,8 @@
-<!-- START_METADATA
----
-title: Vipps Technical Documentation
-sidebar_position: 1
-hide_table_of_contents: true
-pagination_next: null
-pagination_prev: null
----
-END_METADATA -->
+# We are Vipps MobilePay
 
-# Vipps MobilePay Technical Documentation
+We are Vipps MobilePay, a fintech brand that’s here to make it truly simple to pay and get paid.
 
-<!-- START_COMMENT -->
 
-ℹ️ Please use the new documentation: Vipps MobilePay Technical Documentation: https://developer.vippsmobilepay.com
+## Vipps MobilePay Technical Documentation
 
-<!-- END_COMMENT -->
+Please find our technical developer documentation [here](https://developer.vippsmobilepay.com).
